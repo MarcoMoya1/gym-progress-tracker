@@ -30,10 +30,10 @@ A command-line workout tracking app built with Python and Pandas.
 ### Welcome Screen
 ![Welcome](images/tracker.py1.jpg)
 
-### Search Results
+### Logging a Workout
 ![Results](images/tracker.py2.jpg)
 
-### Recommendations
+### Workout History 
 ![Recommendations](images/tracker.py3.jpg)
 
 ## Author
