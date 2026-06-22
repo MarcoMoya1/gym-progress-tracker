@@ -25,5 +25,16 @@ A command-line workout tracking app built with Python and Pandas.
 - Deadlift
 - Pull Ups
 
+## Screenshots
+
+### Welcome Screen
+![Welcome](images/tracker.py1.jpg)
+
+### Search Results
+![Results](images/tracker.py2.jpg)
+
+### Recommendations
+![Recommendations](images/tracker.py3.jpg)
+
 ## Author
 Marco Moya
